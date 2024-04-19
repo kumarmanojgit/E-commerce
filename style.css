@@ -364,15 +364,4 @@ input[type="password"] {
       flex-basis: 50%;
       background-color: rgb(84, 14, 146);
     }
-    .about
-    {
-      width: auto;
-      height: 100%;
-      background-color:#f5eded;
-    }
-    .head{
-      text-align: left;
-      margin-left: 10px;
-      font-weight: 500;
-      font-style: normal;
-    }
+   
